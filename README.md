@@ -31,6 +31,9 @@ python -m venv .env --system-site-packages  && source .env/bin/activate
 pip install -r requirements.txt
 ```
 
+### Result
+[![Watch the video](https://img.youtube.com/vi/xoeMcaG_FxE/0.jpg)](https://www.youtube.com/watch?v=xoeMcaG_FxE)
+
 ## Run the project
 
 ```bash
